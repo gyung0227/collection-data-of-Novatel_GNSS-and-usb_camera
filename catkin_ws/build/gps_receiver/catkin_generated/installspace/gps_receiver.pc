@@ -1,0 +1,8 @@
+prefix=/home/gu/catkin_ws/install
+
+Name: gps_receiver
+Description: Description of gps_receiver
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

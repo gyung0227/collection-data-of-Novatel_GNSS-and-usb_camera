@@ -1,0 +1,2 @@
+my_sync_package:novatel_gps_driver/novatel_gps_driver:novatel_gps_driver/novatel_gps_msgs:ros_opencv
+-DCATKIN_DEVEL_PREFIX=/home/gu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/gu/catkin_ws/install -G Unix Makefiles

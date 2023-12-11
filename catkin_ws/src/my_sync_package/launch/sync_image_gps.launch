@@ -1,0 +1,4 @@
+<!-- sync_image_gps.launch -->
+<launch>
+    <node name="sync_image_gps_node" type="sync_image_gps_node" pkg="sync_image_gps" output="screen"/>
+</launch>

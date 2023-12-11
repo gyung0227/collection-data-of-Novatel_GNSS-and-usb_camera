@@ -1,0 +1,8 @@
+prefix=/home/gu/catkin_ws/install
+
+Name: sync_topics
+Description: Description of sync_topics
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
