@@ -3,5 +3,5 @@
 ### this code is collection Novatel GNSS DATA and usb camera DATA 
 
 
-<img src="https://github.com/gyung0227/collection-data-of-Novatel_GNSS-and-usb_camera/assets/104810215/5ff17d99-d827-412e-b3d3-85157a3a3806"  width="640" height="640"/>
+<img src="https://github.com/gyung0227/collection-data-of-Novatel_GNSS-and-usb_camera/assets/104810215/0a514085-890e-4a09-8a45-f118ebd17bbd"  width="640" height="640"/>
 
